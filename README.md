@@ -1,3 +1,6 @@
+
+![Screenshot (47)](https://github.com/chetana-khawse/weather-app/assets/134994861/54d08ce1-6e04-4fb2-a9d6-868ff2f02565)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
